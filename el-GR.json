@@ -9,7 +9,7 @@
 	"TYPE_tv_PL": "Τηλ. κανάλια",
 	"TYPE_channel_PL": "Κανάλια",
 	"TYPE_other_PL": "Άλλα",
-	"TYPE_ALL": "All",
+	"TYPE_ALL": "Όλα",
 	"VIDEO": "Βίντεο",
 	"BACK": "Πίσω",
 	"MORE": "Περισσότερα",
@@ -393,8 +393,8 @@
 	"SETTINGS_SHORTCUT_DECREASE_SUB_DELAY": "Μειώστε την καθυστέρηση των υποτίτλων",
 	"SETTINGS_SHORTCUT_TOGGLE_SIDEBAR": "Αλλαγή θέσης πλευρικής γραμμής",
 	"SETTINGS_SHORTCUT_OR": "ή",
-	"SETTINGS_SHORTCUT_TO": "στο
-	"SETTINGS_SHORTCUT_SPACE": "Κενό
+	"SETTINGS_SHORTCUT_TO": "στο",
+	"SETTINGS_SHORTCUT_SPACE": "Κενό",
 	"SETTINGS_SHORTCUT_SHIFT": "Shift",
 	"SETTINGS_SHORTCUT_ESC": "Esc",
 	"SETTINGS_TRAKT_AUTHENTICATE": "Authenticate",
